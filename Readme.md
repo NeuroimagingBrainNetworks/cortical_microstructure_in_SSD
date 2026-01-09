@@ -55,6 +55,14 @@ No raw or participant-level data are included in this repository.
 
 ---
 
+## **License**
+
+This project is licensed under the terms of the [GNU General Public License v3.0 license](LICENSE).
+
+
+## **Cite**
+If you use this software, please cite the following paper:
+
 ## Requirements
 
 Analyses were conducted in **R (version ≥ 4.0)**.  
@@ -76,14 +84,3 @@ install.packages(c(
   "dplyr", "tidyr", "lmerTest", "ggplot2", "ggseg",
   "pscl", "openxlsx"
 ))
-
-
-
-
-## **License**
-
-This project is licensed under the terms of the [GNU General Public License v3.0 license](LICENSE).
-
-
-## **Cite**
-If you use this software, please cite the following paper:
